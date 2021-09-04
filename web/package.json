@@ -75,7 +75,7 @@
     "uuid": "^7.0.2",
     "ws": "^7.2.3",
     "xterm": "^4.4.0",
-    "xterm-addon-fit": "^0.3.0",
+    "xterm-addon-fit": "^0.5.0",
     "zone.js": "^0.10.3"
   },
   "devDependencies": {
